@@ -1,6 +1,6 @@
 <body style="font-family: 'Times New Roman', Times, serif;">
    
-<center><p style="color: green; font-family: 'Times New Roman', Times, serif; font-size: 48px; font-weight: 700;"> Disease Prediction Model Based on Symptoms</p></center>
+<center><h1> Disease Prediction Model Based on Symptoms</h1></center>
  
 <h2 >Project Overview</h2>
 <p >This project, Disease Prediction Based on Symptoms, aims to utilize machine learning techniques to predict potential diseases based on the symptoms provided by a user. This project aspires to contribute to the healthcare sector by leveraging a structured dataset and advanced algorithms by assisting in early disease detection and diagnosis.</p>
@@ -12,7 +12,7 @@
     <li>Disease Prediction: The system predicts the most probable diseases based on the given symptoms</li>
     <li>Machine Learning Integration: Utilizes advanced ML algorithms for high accuracy.</li>
 </ul>
-
+<hr>
 <h2 >Technology Stack</h2>
 
 <ul>
@@ -29,8 +29,7 @@
 
 </ul>
 
-
-
+<hr>
 <h2 >Installation</h2>
 
 <ol>
@@ -56,7 +55,7 @@
     python app.py
 </ol>
 
-
+<hr>
 <h2 >Usage</h2>
 
 <ul>
@@ -68,19 +67,19 @@
 
 
 
-
+<hr>
 <h2 >Presentation</h2>
 
 <p> <span style="font-size: large;">🗃️</span>The File also contain the PPT presentation.</p>
 
 
 
-
+<hr>
 <h2 >Contributions</h2>
 
 <p>Contributions are welcome<span style="color: red;">!</span> Feel free to fork this repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.</p>
 
-
+<hr>
 <h2 >Acknowledgements</h2>
 
 <ul>
@@ -88,6 +87,7 @@
     <li>Inspired by ongoing efforts to enhance healthcare through technology.</li>
 </ul>
 
+<hr>
 <h2 >Contact</h2>
 
 <ul>
