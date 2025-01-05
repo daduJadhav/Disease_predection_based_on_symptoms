@@ -36,26 +36,24 @@
 <ol>
     <li>
         Clone this repository:
-        <br>
-        <span style="color: rgb(0, 174, 255);">- git clone https://github.com/your-repo/disease-prediction.git</span>
     </li>
-    <li>
-        Navigate to the project directory:
-        <br>
-        <span style="color: rgb(0, 174, 255);">- cd disease-prediction</span>
-        
+
+      git clone https://github.com/your-repo/disease-prediction.git
+   <li>
+        Navigate to the project directory:   
     </li>
-    <li>Install the required dependencies:
+   
+      cd disease-prediction 
+   <li>Install the required dependencies:
         <br>
         <span style="color: rgb(0, 174, 255);"> - pip install requirements.txt</span>
         
-    </li>
+   </li>
 
-    <li>Run the application:
-        <br>
-        <span style="color: rgb(0, 174, 255);">- python app.py</span>
-        
-    </li>
+   <li>Run the application:
+   </li>
+
+    python app.py
 </ol>
 
 
